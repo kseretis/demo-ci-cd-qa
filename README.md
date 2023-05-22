@@ -1,2 +1,2 @@
-# demo-ci-cd-qa
-Demo CI/CD
+# demo-ci-cd-dev
+Demo CI/CD project
